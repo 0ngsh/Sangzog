@@ -1,0 +1,3 @@
+
+@05/02/2021
+https://medium.com/@atifmukhtar/recycler-view-with-mvvm-livedata-a1fd062d2280
