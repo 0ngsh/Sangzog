@@ -1,3 +1,6 @@
 
 @05/02/2021
 https://medium.com/@atifmukhtar/recycler-view-with-mvvm-livedata-a1fd062d2280
+
+@15/02/2022
+https://medium.com/@harshvivek802/structuring-android-apps-with-mvvm-architecture-79813e5ab6b4
